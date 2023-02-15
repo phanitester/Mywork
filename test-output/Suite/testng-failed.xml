@@ -10,7 +10,7 @@
       <class name="nopcommerce_TestCases.TC_001_LoginTest">
         <methods>
           <include name="Start_Browser"/>
-          <include name="Login_Test" invocation-numbers="1 2 3"/>
+          <include name="Login_Test" invocation-numbers="0 1 2 3"/>
           <include name="tear_down"/>
         </methods>
       </class> <!-- nopcommerce_TestCases.TC_001_LoginTest -->
